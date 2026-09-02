@@ -1,16 +1,16 @@
-## Hi there 👋
+# Ciao, sono Lorenzo 👋
 
-<!--
-**NoorXelz/NoorXelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sto imparando lo sviluppo web e uso GitHub per raccogliere i miei progetti e seguire i miei progressi.
 
-Here are some ideas to get you started:
+## 🌱 Cosa sto imparando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript
+* Git e GitHub
+
+## 🎯 I miei obiettivi
+
+* Creare siti web moderni
+* Realizzare progetti completi
+* Migliorare le mie competenze di programmazione
